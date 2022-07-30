@@ -27,6 +27,7 @@ public static void main(String[] args)
           System. out. println("you are choosen to delete(pop)element");
           s.pop();
           System. out. println(s+":YOUR STACK IS...... ..lastly entered item popped ");
+          break; 
         }
       case 3:
        {
