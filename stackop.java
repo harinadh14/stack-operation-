@@ -17,8 +17,8 @@ public static void main(String[] args)
       case 1:
        {
          System.out.print("enter value to push ");
-         int y = sc.nextInt();
-         s.push(y);
+         int jyo = sc.nextInt();
+         s.push(jyo);
          System.out.println("item pushed");
          break ;
           }
