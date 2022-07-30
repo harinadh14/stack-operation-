@@ -53,5 +53,5 @@ public static void main(String[] args)
 /*
 
 try this for menu:
-System.out.println("\n |------------------|\n | 1.push           | \n | 2.pop            |\n | 3.display stack  |\n | 4. exit          |\n |__________________| ");
+System.out.println(" menu:  \n |------------------|\n | 1.push           | \n | 2.pop            |\n | 3.display stack  |\n | 4. exit          |\n |__________________| ");
 */
