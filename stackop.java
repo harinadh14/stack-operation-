@@ -19,10 +19,15 @@ public static void main(String[] args)
          System.out.print("enter value to push ");
          int y = sc.nextInt();
          s.push(y);
-         top = top+1;
          System.out.println("item pushed");
          break ;
           }
+       case 2:
+        {
+          System. out. println("you are choosen to delete(pop)element");
+          s.pop();
+          System. out. println(s+":YOUR STACK IS...... ..lastly entered item popped ");
+        }
       case 3:
        {
          System.out.println("your stack is :"+ s );
