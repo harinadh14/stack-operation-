@@ -46,7 +46,7 @@ class stkop
                  System.out.print("enter value to push ");
          //int jyo = sc.nextInt();
                  s.push();
-                                                                     43,1          43%
+                                                                  
                  System.out.println("item pushed");
                  break ;
                }
@@ -75,6 +75,4 @@ class stkop
       }
 
     }
-
-}
-                                                                66,1          85%
+}                                                           
