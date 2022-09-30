@@ -25,7 +25,7 @@ class stkop
            System.out.println(arr[i]);
         }
      }
-  public static void main(String[] args)
+  public static void main(String[] args) 
     {
       stkop s=new stkop();
     /*  obj.push();
