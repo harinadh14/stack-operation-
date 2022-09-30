@@ -68,4 +68,3 @@ class queue
      }
   }
 }
-         case 2:
