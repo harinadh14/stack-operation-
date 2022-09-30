@@ -16,9 +16,9 @@ class stacker
       Scanner sc= new Scanner(System.in);
       int x = sc.nextInt();
       node.data =x ;
-      node.next = top;
+      node.next = top;  //this is like incrementing the top value 
       top = node;
-      this.nodescount+=1;
+      this.nodescount+=1; //count the no.of nodes to print the list
     }
     public void pop()
     {
