@@ -43,7 +43,10 @@ class queue
           {
             obj.insert();
             break;
-          }          {
+          }
+           
+         case 2:
+          {
             obj.delete();
             break;
           }
